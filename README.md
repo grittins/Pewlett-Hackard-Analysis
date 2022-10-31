@@ -19,7 +19,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
 ![EmployeeDB](https://user-images.githubusercontent.com/104872971/191904740-b7d52414-3802-4867-abef-5f57adee105d.png)
 
 ## Results: 
-pgAdmin 4 is used to create the tables and each .csv files are connected accordingly. Postgre SQL is used to call the queries. <br>
+PostgreSQL used to create schema for 6 tables and queries are called to get the required data <br>
 Here's the number of retiring employees per title:<br>
 
 <img width="249" alt="Screen Shot 2022-09-23 at 2 47 54 AM" src="https://user-images.githubusercontent.com/104872971/191905889-1248d739-bb29-47ca-b5cb-338373cfe9a3.png">
